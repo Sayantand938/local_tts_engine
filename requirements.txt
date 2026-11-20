@@ -1,0 +1,7 @@
+typer
+soundfile
+numpy
+kittenml
+pocket-tts
+kokoro
+questionary
